@@ -35,7 +35,7 @@ The goal of this project is to demonstrate how AI can be integrated with a basic
 ## Installation / Running the Project
 
 Step 1: Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone 
 
 Step 2: Open the project folder.
 
